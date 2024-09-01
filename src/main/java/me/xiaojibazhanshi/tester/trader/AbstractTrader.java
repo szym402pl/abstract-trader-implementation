@@ -12,7 +12,7 @@ import org.jetbrains.annotations.NotNull;
 import javax.annotation.Nullable;
 import java.util.List;
 
-public abstract class AbstractTrader implements Listener {
+public abstract class AbstractTrader {
 
     private final String customName;
     private final Type villagerType;
