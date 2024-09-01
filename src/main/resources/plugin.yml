@@ -1,0 +1,8 @@
+name: Tester
+version: '1'
+main: me.xiaojibazhanshi.tester.Tester
+api-version: '1.21'
+authors: [ XiaoJibaZhanshi ]
+description: Tester
+commands:
+  trader:
